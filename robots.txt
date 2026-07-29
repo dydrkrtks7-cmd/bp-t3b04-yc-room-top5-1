@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balsan-fullsalon-note.hwagok-karaoke-insider.xyz/sitemap.xml
